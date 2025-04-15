@@ -1,3 +1,15 @@
 {
-  "template": "bolt-vite-react-ts"
+  "template": "vite-react-ts-tailwind",
+  "packages": [],
+  "files": [
+    "src/App.css",
+    "src/App.tsx",
+    "src/main.tsx",
+    "src/lib/utils.ts",
+    "src/components/ThemeButton.tsx",
+    "src/components/ui/button.tsx"
+  ],
+  "settings": {
+    "activeFile": "src/App.tsx"
+  }
 }
